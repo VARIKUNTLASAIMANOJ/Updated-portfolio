@@ -35,7 +35,7 @@ const About = () => {
                         </div>
 
                         <motion.a
-                            href="/assets/VarikuntlaSaiManoj_Resume.pdf"
+                            href="/assets/SaiManojVarikuntla_Resume.pdf"
                             download
                             className="btn-secondary inline-flex"
                             whileHover={{ scale: 1.02 }}
