@@ -47,7 +47,7 @@ export const skillCategories = [
     id: "all",
     name: "All",
     skills: [
-      "Python", "scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "Machine Learning", "Deep Learning", "NLP",
+      "Python", "scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "Machine Learning", "Deep Learning", "NLP", "OpenCV",
       "LangChain", "LangGraph", "LLM Orchestration", "Vector Databases", "Prompt Engineering",
       "Python", "Java", "JavaScript", "TypeScript",
       "React", "FastAPI", "HTML/CSS",
@@ -58,7 +58,7 @@ export const skillCategories = [
   {
     id: "aiml",
     name: "AI/ML",
-    skills: ["Python", "scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "Machine Learning", "Deep Learning", "NLP"],
+    skills: ["Python", "scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "Machine Learning", "Deep Learning", "NLP", "OpenCV"],
   },
   {
     id: "genai",
