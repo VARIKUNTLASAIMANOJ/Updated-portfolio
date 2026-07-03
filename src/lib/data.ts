@@ -13,13 +13,15 @@ export const personalInfo = {
 };
 
 export const aboutMe = {
-  description: `I am a passionate AI Developer and Full Stack Engineer with a strong foundation in machine learning, 
-  data science, and modern web technologies. With expertise in building scalable applications and intelligent systems, 
-  I strive to create solutions that make a meaningful impact.
-
-  My journey in technology has led me to work on diverse projects ranging from natural language processing systems 
-  to full-stack web applications. I am constantly learning and adapting to new technologies, with a particular 
-  interest in Large Language Models, prompt engineering, and emerging AI frameworks.`,
+  description: `I am an AI/ML Engineer passionate about building intelligent solutions that combine
+  machine learning, data analytics, and modern software engineering to solve real-world problems. My
+  experience spans developing AI-powered systems for semantic search, Retrieval-Augmented Generation
+  (RAG), intelligent document retrieval, sentiment analysis, and data-driven decision-making, with a
+  strong focus on building scalable and impactful solutions.
+  
+  Beyond AI, I enjoy developing interactive software and continuously exploring Large Language Models
+  (LLMs), agentic AI, advanced retrieval techniques, and emerging AI technologies to create innovative
+  solutions that deliver meaningful real-world impact.`,
 };
 
 export const education = [
