@@ -131,7 +131,7 @@ export const internships = [
     year: "2026",
     title: "AI/ML Intern",
     company: "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
-    description: "Developed an AI-powered research assistant focused on semantic search, intelligent document retrieval, and scalable knowledge extraction from agricultural research datasets. Engineered hybrid retrieval and validation pipelines to improve contextual relevance and factual accuracy while automating PDF ingestion and research data processing workflows.",
+    description: "• Built a Retrieval-Augmented Generation (RAG) system using LangGraph, Qdrant, and locally hosted Llama models to enable natural language querying over a large scientific research corpus — achieving 80%+ response accuracy with a custom 6-layer evidence validation pipeline to minimize hallucination, with no dependency on external APIs.\n• Developed an agro-meteorological intelligence platform for Telangana combining 30-year ERA5 reanalysis validation, GRU/LSTM deep learning forecasting, FAO-56 irrigation advisory logic, and an NVIDIA Earth-2 (FourCastNet 3 + CorrDiff) real-time forecasting web app — resolving forecasts down to mandal level across all 33 Telangana districts, with 110 automated tests passing.",
   },
 ];
 
