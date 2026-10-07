@@ -4,7 +4,7 @@ import { achievements, certifications, internships } from "@/lib/data";
 import { motion } from "framer-motion";
 
 // Reusable alternating timeline component
-const Timeline = ({ items }: { items: { year: string; title: string; company?: string; description: string }[] }) => (
+const Timeline = ({ items }: { items: { year: string; title: string; company?: string; description?: string }[] }) => (
     <div className="relative max-w-3xl mx-auto">
         {/* Center line for desktop */}
         <div className="absolute left-1/2 transform -translate-x-1/2 top-0 bottom-0 w-px bg-[var(--border)] hidden md:block" />
